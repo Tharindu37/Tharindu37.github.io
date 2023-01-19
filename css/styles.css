@@ -14,9 +14,6 @@ body{
     background-color: #EDF1FD;
 }
 /*home page*/
-.navbar {
-   /* min-height: 80px;*/
-}
 .home-wrap{
     /*border: 1px solid red;*/
     margin-top: 100px!important;
@@ -49,12 +46,12 @@ body{
     font-size: 20px;
 }
 .details-wrap>button{
-    background-color: #D60D3D;
+    background-color: #70a1ff;
     margin-top: 20px;
     font-size: 15px;
 }
 .details-wrap>button:hover{
-    border: 1px solid #D60D3D;
+    border: 1px solid #70a1ff;
 }
 .image-wrap{
     /*border: 1px solid red;*/
@@ -198,6 +195,9 @@ body{
     .project-wrap{
         padding-top: 0!important;
     }
+}
+.project-inner-wrap{
+    height: 220px;
 }
 /*project*/
 
